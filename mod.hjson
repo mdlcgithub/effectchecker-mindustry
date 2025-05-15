@@ -1,0 +1,8 @@
+name: "mency-debug"
+displayName: "debug"
+author: MonoChronos
+description: "fein fein fein"
+version: "1.0"
+minGameVersion: "149"
+dependencies: [ ]
+hidden: true
